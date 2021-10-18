@@ -3,7 +3,8 @@
 
 ## TOC
 - Web
+- Algorithm
 - Data Science
 - NLP
 - Event
-- ETC...
+- ETC
